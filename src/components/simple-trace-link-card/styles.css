@@ -1,0 +1,5 @@
+/* 已重构 */
+.ant-popover-buttons {
+  display: flex;
+  justify-content: flex-start;
+}

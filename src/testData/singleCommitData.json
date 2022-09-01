@@ -1,0 +1,257 @@
+{
+    "sha": "23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+    "node_id": "MDY6Q29tbWl0MzkyMDIxMzE5OjIzZDE0MDA4NjliNjgzNmIxYzI5MTlkYTE0YTA1ZTFlZGIzZDNlOGE=",
+    "commit": {
+        "author": {
+            "name": "847674218",
+            "email": "38312701+847674218@users.noreply.github.com",
+            "date": "2021-08-15T05:41:16Z"
+        },
+        "committer": {
+            "name": "GitHub",
+            "email": "noreply@github.com",
+            "date": "2021-08-15T05:41:16Z"
+        },
+        "message": "Merge pull request #1 from 847674218/add-branch\n\nTestDemo-Version-3.0",
+        "tree": {
+            "sha": "c9dd11d4510e8248a7de22fcd9577daf44935c4e",
+            "url": "https://api.github.com/repos/847674218/TestDemo/git/trees/c9dd11d4510e8248a7de22fcd9577daf44935c4e"
+        },
+        "url": "https://api.github.com/repos/847674218/TestDemo/git/commits/23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+        "comment_count": 0,
+        "verification": {
+            "verified": true,
+            "reason": "valid",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJhGKj8CRBK7hj4Ov3rIwAA3tAIADnnwv8MC1uO9ndOKK32Yx9M\njAGTGXj1YjwyQRJRSl+FZfv8LCmPobjpO6l4HD654UvASXZ0EUEgUvKeTG17Fay+\n8DUSp0bk3UTgHOYxzy7vBSFzihWWoSFiX5M7ZBWWP3TaeS1G0FvJ0J7tahq9wRZ1\nIMU12x8q8PwlIXilkur+x5dwT/YQkwHT2Ms73Tc2ghws6r4MWVNJ0d0pRvG74ytU\nH3y2edpfUwA+eqywpNW6uRqeeHP9iw4VMIbcBiJxGdGFzJPAa4txy5gDWH/JHmuz\njo37uPY2J4Xn7a+vC1ojCuFXE5GOrtZhMK2AUoVRWodAEdWf8Ib5Yx66Ftpbeqw=\n=dAWO\n-----END PGP SIGNATURE-----\n",
+            "payload": "tree c9dd11d4510e8248a7de22fcd9577daf44935c4e\nparent 72a7bebff500aadc3da341139b5e8f7add3ce9dd\nparent 3e7dcffc0c433ed4197a5771e69badbe87cbc8d4\nauthor 847674218 <38312701+847674218@users.noreply.github.com> 1629006076 +0800\ncommitter GitHub <noreply@github.com> 1629006076 +0800\n\nMerge pull request #1 from 847674218/add-branch\n\nTestDemo-Version-3.0"
+        }
+    },
+    "url": "https://api.github.com/repos/847674218/TestDemo/commits/23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+    "html_url": "https://github.com/847674218/TestDemo/commit/23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+    "comments_url": "https://api.github.com/repos/847674218/TestDemo/commits/23d1400869b6836b1c2919da14a05e1edb3d3e8a/comments",
+    "author": {
+        "login": "847674218",
+        "id": 38312701,
+        "node_id": "MDQ6VXNlcjM4MzEyNzAx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38312701?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/847674218",
+        "html_url": "https://github.com/847674218",
+        "followers_url": "https://api.github.com/users/847674218/followers",
+        "following_url": "https://api.github.com/users/847674218/following{/other_user}",
+        "gists_url": "https://api.github.com/users/847674218/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/847674218/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/847674218/subscriptions",
+        "organizations_url": "https://api.github.com/users/847674218/orgs",
+        "repos_url": "https://api.github.com/users/847674218/repos",
+        "events_url": "https://api.github.com/users/847674218/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/847674218/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "parents": [
+        {
+            "sha": "72a7bebff500aadc3da341139b5e8f7add3ce9dd",
+            "url": "https://api.github.com/repos/847674218/TestDemo/commits/72a7bebff500aadc3da341139b5e8f7add3ce9dd",
+            "html_url": "https://github.com/847674218/TestDemo/commit/72a7bebff500aadc3da341139b5e8f7add3ce9dd"
+        },
+        {
+            "sha": "3e7dcffc0c433ed4197a5771e69badbe87cbc8d4",
+            "url": "https://api.github.com/repos/847674218/TestDemo/commits/3e7dcffc0c433ed4197a5771e69badbe87cbc8d4",
+            "html_url": "https://github.com/847674218/TestDemo/commit/3e7dcffc0c433ed4197a5771e69badbe87cbc8d4"
+        }
+    ],
+    "stats": {
+        "total": 580,
+        "additions": 580,
+        "deletions": 0
+    },
+    "files": [
+        {
+            "sha": "94a25f7f4cb416c083d265558da75d457237d671",
+            "filename": ".idea/vcs.xml",
+            "status": "added",
+            "additions": 6,
+            "deletions": 0,
+            "changes": 6,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/vcs.xml",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/vcs.xml",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/.idea/vcs.xml?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,6 @@\n+<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n+<project version=\"4\">\n+  <component name=\"VcsDirectoryMappings\">\n+    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\n+  </component>\n+</project>\n\\ No newline at end of file"
+        },
+        {
+            "sha": "6cd5e1eb83765951338415b36b0253bdc5e1d10f",
+            "filename": ".idea/workspace.xml",
+            "status": "added",
+            "additions": 127,
+            "deletions": 0,
+            "changes": 127,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/workspace.xml",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/workspace.xml",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/.idea/workspace.xml?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,127 @@\n+<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n+<project version=\"4\">\n+  <component name=\"ChangeListManager\">\n+    <list default=\"true\" id=\"56955efb-5baf-4209-9772-7d00e2441c4a\" name=\"默认更改列表\" comment=\"TestDemo-Version-2.0\">\n+      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/TLE.iml\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/Main.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/lib/annotations-20.1.0.jar\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/lib/commons-math3-3.6.1.jar\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/preprocess/DataPath.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/preprocess/DataPreprocess.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/util/BreakClassIntoMethods.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/util/CopyFileUtil.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/util/GetFileNameUtil.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/util/GetTraceMatrix.java\" afterDir=\"false\" />\n+      <change afterPath=\"$PROJECT_DIR$/src/util/RequirementsDivisionUtil.java\" afterDir=\"false\" />\n+      <change beforePath=\"$PROJECT_DIR$/trace-link.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/trace-link.json\" afterDir=\"false\" />\n+    </list>\n+    <option name=\"SHOW_DIALOG\" value=\"false\" />\n+    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n+    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n+    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n+  </component>\n+  <component name=\"Git.Settings\">\n+    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n+      <map>\n+        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n+      </map>\n+    </option>\n+    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n+  </component>\n+  <component name=\"MavenImportPreferences\">\n+    <option name=\"generalSettings\">\n+      <MavenGeneralSettings>\n+        <option name=\"mavenHome\" value=\"D:\\ideaIU_2020.2.2_Portable\\plugins\\maven\\lib\\maven3\" />\n+      </MavenGeneralSettings>\n+    </option>\n+  </component>\n+  <component name=\"ProjectId\" id=\"1wBB4RlQwRpz6qjAMyCaxWuImL0\" />\n+  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n+  <component name=\"ProjectViewState\">\n+    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n+    <option name=\"showExcludedFiles\" value=\"false\" />\n+    <option name=\"showLibraryContents\" value=\"true\" />\n+    <option name=\"showMembers\" value=\"true\" />\n+    <option name=\"showVisibilityIcons\" value=\"true\" />\n+  </component>\n+  <component name=\"PropertiesComponent\">\n+    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n+    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n+    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n+    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n+    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n+    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\n+  </component>\n+  <component name=\"RunManager\">\n+    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\n+      <option name=\"arquillianRunConfiguration\">\n+        <value>\n+          <option name=\"containerStateName\" value=\"\" />\n+        </value>\n+      </option>\n+      <option name=\"TEST_OBJECT\" value=\"class\" />\n+      <method v=\"2\">\n+        <option name=\"Make\" enabled=\"true\" />\n+      </method>\n+    </configuration>\n+  </component>\n+  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n+  <component name=\"TaskManager\">\n+    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n+      <changelist id=\"56955efb-5baf-4209-9772-7d00e2441c4a\" name=\"默认更改列表\" comment=\"\" />\n+      <created>1627921911915</created>\n+      <option name=\"number\" value=\"Default\" />\n+      <option name=\"presentableId\" value=\"Default\" />\n+      <updated>1627921911915</updated>\n+      <workItem from=\"1627921914561\" duration=\"1427000\" />\n+      <workItem from=\"1627954013366\" duration=\"1802000\" />\n+      <workItem from=\"1628932490040\" duration=\"406000\" />\n+      <workItem from=\"1628933049465\" duration=\"5740000\" />\n+      <workItem from=\"1629004380058\" duration=\"306000\" />\n+    </task>\n+    <task id=\"LOCAL-00001\" summary=\"TestDemo-Version-1.0\">\n+      <created>1627921990215</created>\n+      <option name=\"number\" value=\"00001\" />\n+      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n+      <option name=\"project\" value=\"LOCAL\" />\n+      <updated>1627921990215</updated>\n+    </task>\n+    <task id=\"LOCAL-00002\" summary=\"TestDemo-Version-2.0\">\n+      <created>1627922106339</created>\n+      <option name=\"number\" value=\"00002\" />\n+      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n+      <option name=\"project\" value=\"LOCAL\" />\n+      <updated>1627922106339</updated>\n+    </task>\n+    <option name=\"localTasksCounter\" value=\"3\" />\n+    <servers />\n+  </component>\n+  <component name=\"TypeScriptGeneratedFilesManager\">\n+    <option name=\"version\" value=\"3\" />\n+  </component>\n+  <component name=\"VcsManagerConfiguration\">\n+    <MESSAGE value=\"TestDemo-Version-1.0\" />\n+    <MESSAGE value=\"TestDemo-Version-2.0\" />\n+    <option name=\"LAST_COMMIT_MESSAGE\" value=\"TestDemo-Version-2.0\" />\n+  </component>\n+  <component name=\"WindowStateProjectService\">\n+    <state x=\"281\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1627922111210\">\n+      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n+    </state>\n+    <state x=\"281\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1366.728@0.0.1366.728\" timestamp=\"1627922111210\" />\n+    <state x=\"463\" y=\"105\" key=\"FileChooserDialogImpl\" timestamp=\"1627921924614\">\n+      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n+    </state>\n+    <state x=\"463\" y=\"105\" key=\"FileChooserDialogImpl/0.0.1366.728@0.0.1366.728\" timestamp=\"1627921924614\" />\n+    <state x=\"553\" y=\"264\" key=\"Github.ShareDialog\" timestamp=\"1627922003652\">\n+      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n+    </state>\n+    <state x=\"553\" y=\"264\" key=\"Github.ShareDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1627922003652\" />\n+    <state x=\"275\" y=\"93\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1627922113819\">\n+      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\n+    </state>\n+    <state x=\"275\" y=\"93\" key=\"Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1627922113819\" />\n+  </component>\n+</project>\n\\ No newline at end of file"
+        },
+        {
+            "sha": "dde3be7d8d389aaf1427f7662a2951eca0f4532f",
+            "filename": "TLE.iml",
+            "status": "added",
+            "additions": 29,
+            "deletions": 0,
+            "changes": 29,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/TLE.iml",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/TLE.iml",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/TLE.iml?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,29 @@\n+<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n+<module type=\"JAVA_MODULE\" version=\"4\">\n+  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\n+    <exclude-output />\n+    <content url=\"file://$MODULE_DIR$\">\n+      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\n+    </content>\n+    <orderEntry type=\"inheritedJdk\" />\n+    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n+    <orderEntry type=\"module-library\">\n+      <library>\n+        <CLASSES>\n+          <root url=\"jar://$MODULE_DIR$/out/production/TLE/lib/annotations-20.1.0.jar!/\" />\n+        </CLASSES>\n+        <JAVADOC />\n+        <SOURCES />\n+      </library>\n+    </orderEntry>\n+    <orderEntry type=\"module-library\">\n+      <library>\n+        <CLASSES>\n+          <root url=\"jar://$MODULE_DIR$/out/production/TLE/lib/commons-math3-3.6.1.jar!/\" />\n+        </CLASSES>\n+        <JAVADOC />\n+        <SOURCES />\n+      </library>\n+    </orderEntry>\n+  </component>\n+</module>\n\\ No newline at end of file"
+        },
+        {
+            "sha": "a803a2eeb568e80cad5c7c71195b59532ead5505",
+            "filename": "src/Main.java",
+            "status": "added",
+            "additions": 16,
+            "deletions": 0,
+            "changes": 16,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/Main.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/Main.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/Main.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,16 @@\n+import preprocess.DataPreprocess;\n+\n+import java.io.IOException;\n+\n+public class Main {\n+    public static void main(String[] args) throws IOException {\n+        long startTime = System.currentTimeMillis();\n+\n+        // 预处理\n+        DataPreprocess dataProcess = new DataPreprocess();\n+        dataProcess.arrangeData();\n+\n+        long endTime = System.currentTimeMillis();\n+        System.out.println(\"time cost:\" + (endTime - startTime) * 1.0 / 1000 / 60 + \"min\");\n+    }\n+}\n\\ No newline at end of file"
+        },
+        {
+            "sha": "8bd96c584719a02627ce224cc8e23fef4461f014",
+            "filename": "src/lib/annotations-20.1.0.jar",
+            "status": "added",
+            "additions": 0,
+            "deletions": 0,
+            "changes": 0,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/lib/annotations-20.1.0.jar",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/lib/annotations-20.1.0.jar",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/lib/annotations-20.1.0.jar?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a"
+        },
+        {
+            "sha": "0ff582cfcb687e5c9608457628f78e9a782be932",
+            "filename": "src/lib/commons-math3-3.6.1.jar",
+            "status": "added",
+            "additions": 0,
+            "deletions": 0,
+            "changes": 0,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/lib/commons-math3-3.6.1.jar",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/lib/commons-math3-3.6.1.jar",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/lib/commons-math3-3.6.1.jar?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a"
+        },
+        {
+            "sha": "d6410c81cfc38dc329d8e37f0b3583a4653c0b8e",
+            "filename": "src/preprocess/DataPath.java",
+            "status": "added",
+            "additions": 108,
+            "deletions": 0,
+            "changes": 108,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/preprocess/DataPath.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/preprocess/DataPath.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/preprocess/DataPath.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,108 @@\n+package preprocess;\n+\n+public class DataPath {\n+\n+    // 原始文件（新版本需求、旧版本需求、新版本代码、旧版本代码）路径\n+    private static String oldProjectPath = \"data/project_old\";\n+    private static String newProjectPath = \"data/project_new\";\n+    private static String oldRequirementsPath = \"data/requirements_old\";\n+    private static String newRequirementsPath = \"data/requirements_new\";\n+\n+    public static String getOldProjectPath() { return oldProjectPath; }\n+    public static void setOldProjectPath(String oldProjectPath) { DataPath.oldProjectPath = oldProjectPath; }\n+\n+    public static String getNewProjectPath() { return newProjectPath; }\n+    public static void setNewProjectPath(String newProjectPath) { DataPath.newProjectPath = newProjectPath; }\n+\n+    public static String getOldRequirementsPath() { return oldRequirementsPath; }\n+    public static void setOldRequirementsPath(String oldRequirementsPath) { DataPath.oldRequirementsPath = oldRequirementsPath; }\n+\n+    public static String getNewRequirementsPath() { return newRequirementsPath; }\n+    public static void setNewRequirementsPath(String newRequirementsPath) { DataPath.newRequirementsPath = newRequirementsPath; }\n+\n+    // 处理结果文件路径\n+    private static String classNamePath = \"intermediateResult/className\";\n+    private static String oldClassPath = \"intermediateResult/class_old\";\n+    private static String newClassPath = \"intermediateResult/class_new\";\n+    private static String methodsNamePath = \"intermediateResult/methodsName\";\n+    private static String oldMethodsPath = \"intermediateResult/method_old\";\n+    private static String newMethodsPath = \"intermediateResult/method_new\";\n+    private static String oldClassTxtPath =  \"intermediateResult/class_old_txt\";\n+    private static String newClassTxtPath =  \"intermediateResult/class_new_txt\";\n+    private static String oldClassXmlPath =  \"intermediateResult/class_old_xml\";\n+    private static String newClassXmlPath =  \"intermediateResult/class_new_xml\";\n+    private static String oldClassPreProcessedPath =  \"intermediateResult/class_old_preprocessed\";\n+    private static String newClassPreProcessedPath =  \"intermediateResult/class_new_preprocessed\";\n+    private static String oldMethodsPreProcessedPath = \"intermediateResult/method_old_preprocessed\";\n+    private static String newMethodsPreProcessedPath = \"intermediateResult/method_new_preprocessed\";\n+    private static String oldRequirementsDivision = \"intermediateResult/requirements_old_division\";\n+    private static String newRequirementsDivision = \"intermediateResult/requirements_new_division\";\n+    private static String oldRequirementsPreProcessedPath =  \"intermediateResult/requirements_old_preprocessed\";\n+    private static String newRequirementsPreProcessedPath =  \"intermediateResult/requirements_new_preprocessed\";\n+    private static String associationRelationshipPath = \"intermediateResult/associationRelationship\";\n+    private static String extendsRelationship = \"intermediateResult/extendsRelationship\";\n+\n+    public static String getClassNamePath() {\n+        return classNamePath;\n+    }\n+    public static void setClassNamePath(String classNamePath) { DataPath.classNamePath = classNamePath; }\n+\n+    public static String getOldClassPath() { return oldClassPath; }\n+    public static void setOldClassPath(String oldClassPath) { DataPath.oldClassPath = oldClassPath; }\n+\n+    public static String getNewClassPath() { return newClassPath; }\n+    public static void setNewClassPath(String newClassPath) { DataPath.newClassPath = newClassPath; }\n+\n+    public static String getMethodsNamePath() { return methodsNamePath; }\n+    public static void setMethodsNamePath(String methodsNamePath) { DataPath.methodsNamePath = methodsNamePath; }\n+\n+    public static String getOldMethodsPath() { return oldMethodsPath; }\n+    public static void setOldMethodsPath(String oldMethodsPath) { DataPath.oldMethodsPath = oldMethodsPath; }\n+\n+    public static String getNewMethodsPath() { return newMethodsPath; }\n+    public static void setNewMethodsPath(String newMethodsPath) { DataPath.newMethodsPath = newMethodsPath; }\n+\n+    public static String getOldClassTxtPath() { return oldClassTxtPath; }\n+    public static void setOldClassTxtPath(String oldClassTxtPath) { DataPath.oldClassTxtPath = oldClassTxtPath; }\n+\n+    public static String getNewClassTxtPath() { return newClassTxtPath; }\n+    public static void setNewClassTxtPath(String newClassTxtPath) { DataPath.newClassTxtPath = newClassTxtPath; }\n+\n+    public static String getOldClassXmlPath() { return oldClassXmlPath; }\n+    public static void setOldClassXmlPath(String oldClassXmlPath) { DataPath.oldClassXmlPath = oldClassXmlPath; }\n+\n+    public static String getNewClassXmlPath() { return newClassXmlPath; }\n+    public static void setNewClassXmlPath(String newClassXmlPath) { DataPath.newClassXmlPath = newClassXmlPath; }\n+\n+    public static String getOldClassPreProcessedPath() { return oldClassPreProcessedPath; }\n+    public static void setOldClassPreProcessedPath(String oldClassPreProcessedPath) { DataPath.oldClassPreProcessedPath = oldClassPreProcessedPath; }\n+\n+    public static String getNewClassPreProcessedPath() { return newClassPreProcessedPath; }\n+    public static void setNewClassPreProcessedPath(String newClassPreProcessedPath) { DataPath.newClassPreProcessedPath = newClassPreProcessedPath; }\n+\n+    public static String getOldMethodsPreProcessedPath() { return oldMethodsPreProcessedPath; }\n+    public static void setOldMethodsPreProcessedPath(String oldMethodsPreProcessedPath) { DataPath.oldMethodsPreProcessedPath = oldMethodsPreProcessedPath; }\n+\n+    public static String getNewMethodsPreProcessedPath() { return newMethodsPreProcessedPath; }\n+    public static void setNewMethodsPreProcessedPath(String newMethodsPreProcessedPath) { DataPath.newMethodsPreProcessedPath = newMethodsPreProcessedPath; }\n+\n+    public static String getOldRequirementsDivision() { return oldRequirementsDivision; }\n+    public static void setOldRequirementsDivision(String oldRequirementsDivision) { DataPath.oldRequirementsDivision = oldRequirementsDivision; }\n+\n+    public static String getNewRequirementsDivision() { return newRequirementsDivision; }\n+    public static void setNewRequirementsDivision(String newRequirementsDivision) { DataPath.newRequirementsDivision = newRequirementsDivision; }\n+\n+    public static String getOldRequirementsPreProcessedPath() {\n+        return oldRequirementsPreProcessedPath;\n+    }\n+    public static void setOldRequirementsPreProcessedPath(String oldRequirementsPreProcessedPath) { DataPath.oldRequirementsPreProcessedPath = oldRequirementsPreProcessedPath; }\n+\n+    public static String getNewRequirementsPreProcessedPath() { return newRequirementsPreProcessedPath; }\n+    public static void setNewRequirementsPreProcessedPath(String newRequirementsPreProcessedPath) { DataPath.newRequirementsPreProcessedPath = newRequirementsPreProcessedPath; }\n+\n+    public static String getAssociationRelationshipPath() { return associationRelationshipPath; }\n+    public static void setAssociationRelationshipPath(String associationRelationshipPath) { DataPath.associationRelationshipPath = associationRelationshipPath; }\n+\n+    public static String getExtendsRelationship() { return extendsRelationship; }\n+    public static void setExtendsRelationship(String extendsRelationship) { DataPath.extendsRelationship = extendsRelationship; }\n+}"
+        },
+        {
+            "sha": "29d2ff83c402e678afb5f6853faf2d1176e0bdcc",
+            "filename": "src/preprocess/DataPreprocess.java",
+            "status": "added",
+            "additions": 78,
+            "deletions": 0,
+            "changes": 78,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/preprocess/DataPreprocess.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/preprocess/DataPreprocess.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/preprocess/DataPreprocess.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,78 @@\n+package preprocess;\n+\n+import util.*;\n+\n+import java.io.File;\n+\n+public class DataPreprocess {\n+    // 清理目录下的数据\n+    private void cleanData() {\n+        deleteFileInDir(DataPath.getClassNamePath());\n+        deleteFileInDir(DataPath.getOldClassPath());\n+        deleteFileInDir(DataPath.getNewClassPath());\n+        deleteFileInDir(DataPath.getMethodsNamePath());\n+        deleteFileInDir(DataPath.getOldMethodsPath());\n+        deleteFileInDir(DataPath.getNewMethodsPath());\n+        deleteFileInDir(DataPath.getOldClassTxtPath());\n+        deleteFileInDir(DataPath.getNewClassTxtPath());\n+//        deleteFileInDir(DataPath.getOldClassXmlPath());\n+//        deleteFileInDir(DataPath.getNewClassXmlPath());\n+//        deleteFileInDir(DataPath.getAssociationRelationshipPath());\n+        deleteFileInDir(DataPath.getOldClassPreProcessedPath());\n+        deleteFileInDir(DataPath.getNewClassPreProcessedPath());\n+        deleteFileInDir(DataPath.getOldMethodsPreProcessedPath());\n+        deleteFileInDir(DataPath.getNewMethodsPreProcessedPath());\n+        deleteFileInDir(DataPath.getOldRequirementsDivision());\n+        deleteFileInDir(DataPath.getNewRequirementsDivision());\n+        deleteFileInDir(DataPath.getOldRequirementsPreProcessedPath());\n+        deleteFileInDir(DataPath.getNewRequirementsPreProcessedPath());\n+    }\n+\n+    // 删除目录下的文件\n+    private void deleteFileInDir(String dirPath) {\n+        File dir = new File(dirPath);\n+        File[] files = dir.listFiles();\n+        if (files != null) {\n+            for (File f : files) {\n+                f.delete();\n+            }\n+        }\n+    }\n+\n+    public void arrangeData() {\n+        try {\n+            cleanData();\n+            // 拆分需求文档：把每条需求拆分为一个文件\n+            RequirementsDivisionUtil.requirementsDivision(DataPath.getOldRequirementsPath(),DataPath.getOldRequirementsDivision());\n+            RequirementsDivisionUtil.requirementsDivision(DataPath.getNewRequirementsPath(),DataPath.getNewRequirementsDivision());\n+            // 提取java文件：把项目中的java和jsp文件复制到目标路径下\n+            GetClassFileUtil.getClassFromProject(DataPath.getOldProjectPath(),DataPath.getOldClassPath());\n+            GetClassFileUtil.getClassFromProject(DataPath.getNewProjectPath(),DataPath.getNewClassPath());\n+            // 得到java文件的文件名（以.java结尾）\n+            GetFileNameUtil.getClassNameFromProject(DataPath.getOldClassPath(),DataPath.getClassNamePath(),\"oldClassName.txt\");\n+            GetFileNameUtil.getClassNameFromProject(DataPath.getNewClassPath(),DataPath.getClassNamePath(),\"newClassName.txt\");\n+            // 把java文件转化成txt文件\n+            TransferToTxtUtil.transferTXT(DataPath.getOldClassPath(), DataPath.getOldClassTxtPath());\n+            TransferToTxtUtil.transferTXT(DataPath.getNewClassPath(), DataPath.getNewClassTxtPath());\n+            // 把java文件转化为xml文件（srcML）\n+\n+            // 生成类之间的依赖关系（callGraph）\n+\n+            // 把类文件拆分成方法文件\n+            BreakClassIntoMethods.breakClassIntoMethods(DataPath.getOldClassXmlPath(),DataPath.getOldMethodsPath());\n+            BreakClassIntoMethods.breakClassIntoMethods(DataPath.getNewClassXmlPath(),DataPath.getNewMethodsPath());\n+            // 得到方法的名称列表（java文件：方法名）\n+            GetFileNameUtil.getMethodsNameFromProject(DataPath.getOldMethodsPath(),DataPath.getMethodsNamePath(),\"oldMethodName.txt\");\n+            GetFileNameUtil.getMethodsNameFromProject(DataPath.getNewMethodsPath(),DataPath.getMethodsNamePath(),\"newMethodName.txt\");\n+            // 预处理：整理成词干的形式\n+            BatchingPreprocess oldPreprocess = new BatchingPreprocess(DataPath.getOldRequirementsDivision(), DataPath.getOldRequirementsPreProcessedPath(),DataPath.getOldClassTxtPath(), DataPath.getOldClassPreProcessedPath(), DataPath.getOldMethodsPath(),DataPath.getOldMethodsPreProcessedPath());\n+            oldPreprocess.doProcess();\n+            BatchingPreprocess newPreprocess = new BatchingPreprocess(DataPath.getNewRequirementsDivision(), DataPath.getNewRequirementsPreProcessedPath(),DataPath.getNewClassTxtPath(), DataPath.getNewClassPreProcessedPath(), DataPath.getNewMethodsPath(),DataPath.getNewMethodsPreProcessedPath());\n+            newPreprocess.doProcess();\n+\n+        } catch (Exception e) {\n+            e.printStackTrace();\n+        }\n+    }\n+\n+}"
+        },
+        {
+            "sha": "3bd0b3fd5fabcf3d59b64c6e4ea86c4c9c8a6696",
+            "filename": "src/util/BreakClassIntoMethods.java",
+            "status": "added",
+            "additions": 45,
+            "deletions": 0,
+            "changes": 45,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/BreakClassIntoMethods.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/BreakClassIntoMethods.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/util/BreakClassIntoMethods.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,45 @@\n+package util;\n+\n+import org.w3c.dom.Node;\n+import org.w3c.dom.NodeList;\n+import org.xml.sax.SAXException;\n+\n+import javax.xml.parsers.DocumentBuilder;\n+import javax.xml.parsers.DocumentBuilderFactory;\n+import javax.xml.parsers.ParserConfigurationException;\n+import javax.xml.xpath.XPath;\n+import javax.xml.xpath.XPathConstants;\n+import javax.xml.xpath.XPathExpressionException;\n+import javax.xml.xpath.XPathFactory;\n+import java.io.*;\n+\n+public class BreakClassIntoMethods {\n+    public static void breakClassIntoMethods(String sourcePath,String targetPath) throws IOException, ParserConfigurationException, SAXException, XPathExpressionException {\n+        File dir = new File(sourcePath);\n+        for(File xmlFile : dir.listFiles()) {\n+            FileInputStream fin = new FileInputStream(xmlFile.getPath());\n+            String fileName = xmlFile.getName().substring(0,xmlFile.getName().indexOf(\".\"));\n+\n+            String xpathContent = \"//function\";\n+            String xpathName = \"//function/name\";\n+\n+            DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();\n+            DocumentBuilder builder = builderFactory.newDocumentBuilder();\n+            org.w3c.dom.Document xmlDocument = builder.parse(fin);\n+            XPath xPath = XPathFactory.newInstance().newXPath();\n+            NodeList listContent = (NodeList) xPath.compile(xpathContent).evaluate(xmlDocument, XPathConstants.NODESET);\n+            NodeList listName = (NodeList) xPath.compile(xpathName).evaluate(xmlDocument, XPathConstants.NODESET);\n+            for (int i = 0; i < listContent.getLength(); i++) {\n+                Node nodeContent = listContent.item(i);\n+                Node nodeName = listName.item(i);\n+                String methodName = nodeName.getTextContent();\n+                String methodContent = nodeContent.getTextContent();\n+\n+                BufferedWriter bw = new BufferedWriter(new FileWriter(targetPath+File.separator+fileName+\"_\"+methodName+\".txt\"));\n+                bw.write(methodContent);\n+                bw.close();\n+\n+            }\n+        }\n+    }\n+}"
+        },
+        {
+            "sha": "06cd907598981984a2014b7336efcd6ecf6d342b",
+            "filename": "src/util/CopyFileUtil.java",
+            "status": "added",
+            "additions": 18,
+            "deletions": 0,
+            "changes": 18,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/CopyFileUtil.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/CopyFileUtil.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/util/CopyFileUtil.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,18 @@\n+package util;\n+\n+import java.io.*;\n+\n+public class CopyFileUtil {\n+    public static void copyFile(File source,String target) throws IOException {\n+        BufferedReader br = new BufferedReader(new FileReader(source));\n+        BufferedWriter bw = new BufferedWriter(new FileWriter(target));\n+\n+        String line;\n+        while((line=br.readLine())!=null) {\n+            bw.write(line);\n+            bw.newLine();\n+        }\n+        br.close();\n+        bw.close();\n+    }\n+}"
+        },
+        {
+            "sha": "9c6e631e6ad578887150074e17e8e3a5954783e2",
+            "filename": "src/util/GetFileNameUtil.java",
+            "status": "added",
+            "additions": 41,
+            "deletions": 0,
+            "changes": 41,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/GetFileNameUtil.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/GetFileNameUtil.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/util/GetFileNameUtil.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,41 @@\n+package util;\n+\n+import java.io.BufferedWriter;\n+import java.io.File;\n+import java.io.FileWriter;\n+import java.io.IOException;\n+\n+public class GetFileNameUtil {\n+    // 从项目中提取所有java文件的名字\n+    public static void getClassNameFromProject(String originPath,String targetPath,String targetFileName) throws IOException {\n+        File dir = new File(originPath);\n+        File[] children = dir.listFiles();\n+\n+        BufferedWriter bw = new BufferedWriter(new FileWriter(targetPath + File.separator + targetFileName));\n+\n+        for (File child : children) {\n+            String name = child.getName();\n+            bw.write(name);\n+            bw.newLine();\n+        }\n+\n+        bw.close();\n+    }\n+\n+    public static void getMethodsNameFromProject(String originPath,String targetPath,String targetFileName) throws IOException {\n+        File dir = new File(originPath);\n+        File[] children = dir.listFiles();\n+\n+        BufferedWriter bw = new BufferedWriter(new FileWriter(targetPath + File.separator + targetFileName));\n+\n+        for (File child : children) {\n+            String name = child.getName();\n+            name = name.substring(0,name.indexOf(\".\"));\n+            name = name.replace(\"_\",\".java:\");\n+            bw.write(name);\n+            bw.newLine();\n+        }\n+\n+        bw.close();\n+    }\n+}"
+        },
+        {
+            "sha": "f03b1f592fe1f7ae40474c9a8b07fabc75c63c76",
+            "filename": "src/util/GetTraceMatrix.java",
+            "status": "added",
+            "additions": 70,
+            "deletions": 0,
+            "changes": 70,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/GetTraceMatrix.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/GetTraceMatrix.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/util/GetTraceMatrix.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,70 @@\n+package util;\n+\n+import java.io.BufferedReader;\n+import java.io.File;\n+import java.io.FileReader;\n+import java.io.IOException;\n+import java.util.ArrayList;\n+import java.util.HashMap;\n+import java.util.List;\n+import java.util.Map;\n+\n+public class GetTraceMatrix {\n+    // 初始跟踪链接中，哪个需求对应哪些类\n+    public static Map<String, List<String>> fromRequirementsToClassOrMethod() throws IOException {\n+        File file = new File(\"data\\\\TraceMatrix_Start.txt\");\n+        BufferedReader br = new BufferedReader(new FileReader(file));\n+\n+        Map<String, List<String>> traceMatrix = new HashMap<>();\n+\n+        String line;\n+        while((line=br.readLine())!=null) {\n+            if(line.length()!=0){\n+                String [] arr = line.split(\"\\\\s+\");\n+                if(traceMatrix.containsKey(arr[0])){\n+                    List<String> temp = traceMatrix.get(arr[0]);\n+                    temp.add(arr[1]);\n+                }else{\n+                    List<String> temp = new ArrayList<String>();\n+                    temp.add(arr[1]);\n+                    traceMatrix.put(arr[0],temp);\n+                }\n+            }\n+        }\n+        br.close();\n+\n+//        for (Map.Entry<String, List<String>> traceLink : traceMatrix.entrySet()) {\n+//            String requirement = traceLink.getKey();\n+//            List<String> className = traceLink.getValue();\n+//            System.out.println(requirement+\" \"+className);\n+//        }\n+\n+        return traceMatrix;\n+    }\n+\n+    // 初始跟踪链接中，哪个类对应哪些需求\n+    public static Map<String,  List<String>> fromClassOrMethodToRequirements() throws IOException {\n+        File file = new File(\"data\\\\TraceMatrix_Start.txt\");\n+        BufferedReader br = new BufferedReader(new FileReader(file));\n+\n+        Map<String, List<String>> traceMatrix = new HashMap<>();\n+\n+        String line;\n+        while((line=br.readLine())!=null) {\n+            if(line.length()!=0){\n+                String [] arr = line.split(\"\\\\s+\");\n+                if(traceMatrix.containsKey(arr[1])){\n+                    List<String> temp = traceMatrix.get(arr[1]);\n+                    temp.add(arr[0]);\n+                }else{\n+                    List<String> temp = new ArrayList<String>();\n+                    temp.add(arr[0]);\n+                    traceMatrix.put(arr[1],temp);\n+                }\n+            }\n+        }\n+        br.close();\n+\n+        return traceMatrix;\n+    }\n+}"
+        },
+        {
+            "sha": "a454962adcd46a677127e9d7f2d42777b360260f",
+            "filename": "src/util/RequirementsDivisionUtil.java",
+            "status": "added",
+            "additions": 37,
+            "deletions": 0,
+            "changes": 37,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/RequirementsDivisionUtil.java",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/src/util/RequirementsDivisionUtil.java",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/src/util/RequirementsDivisionUtil.java?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -0,0 +1,37 @@\n+package util;\n+\n+import java.io.*;\n+\n+// 拆分需求文档\n+// 注意：文档格式应该是每个需求占一行的txt文件，且这样的文件应该只有一个。\n+public class RequirementsDivisionUtil {\n+    public static void requirementsDivision(String sourcePath,String targetPath) throws IOException {\n+        File dir = new File(sourcePath);\n+        if(dir.isDirectory()) {\n+            File[] children = dir.listFiles();\n+            for(File child:children) {\n+                requirementsDivision(child.getAbsolutePath(),targetPath);\n+            }\n+        }\n+        else {\n+            writeFile(dir,targetPath);\n+        }\n+    }\n+\n+    // 复制文件\n+    private static void writeFile(File javaFile, String targetPath) throws IOException {\n+        int number = 1;\n+        BufferedReader br = new BufferedReader(new FileReader(javaFile));\n+\n+        String line;\n+        while((line=br.readLine())!=null) {\n+            if(line.length()!=0){\n+                BufferedWriter bw = new BufferedWriter(new FileWriter(targetPath+File.separator+\"F\"+number+\".txt\"));\n+                bw.write(line);\n+                number++;\n+                bw.close();\n+            }\n+        }\n+        br.close();\n+    }\n+}"
+        },
+        {
+            "sha": "39425c2fe8ff239582989b10662fb5364a9b609e",
+            "filename": "trace-link.json",
+            "status": "modified",
+            "additions": 5,
+            "deletions": 0,
+            "changes": 5,
+            "blob_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/trace-link.json",
+            "raw_url": "https://github.com/847674218/TestDemo/raw/23d1400869b6836b1c2919da14a05e1edb3d3e8a/trace-link.json",
+            "contents_url": "https://api.github.com/repos/847674218/TestDemo/contents/trace-link.json?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+            "patch": "@@ -98,5 +98,10 @@\n     \"requirementDescription\": \"F16\",\n     \"type\": \"CLASS\",\n     \"fullyQualifiedName\": \"DataPath.java\"\n+  },\n+  {\n+    \"requirementDescription\": \"F\",\n+    \"type\": \"C\",\n+    \"fullyQualifiedName\": \"D\"\n   }\n ]\n\\ No newline at end of file"
+        }
+    ]
+}

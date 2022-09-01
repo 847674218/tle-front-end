@@ -1,0 +1,18 @@
+{
+    "name": "vcs.xml",
+    "path": ".idea/vcs.xml",
+    "sha": "94a25f7f4cb416c083d265558da75d457237d671",
+    "size": 180,
+    "url": "https://api.github.com/repos/847674218/TestDemo/contents/.idea/vcs.xml?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+    "html_url": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/vcs.xml",
+    "git_url": "https://api.github.com/repos/847674218/TestDemo/git/blobs/94a25f7f4cb416c083d265558da75d457237d671",
+    "download_url": "https://raw.githubusercontent.com/847674218/TestDemo/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/vcs.xml",
+    "type": "file",
+    "content": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2pl\nY3QgdmVyc2lvbj0iNCI+CiAgPGNvbXBvbmVudCBuYW1lPSJWY3NEaXJlY3Rv\ncnlNYXBwaW5ncyI+CiAgICA8bWFwcGluZyBkaXJlY3Rvcnk9IiRQUk9KRUNU\nX0RJUiQiIHZjcz0iR2l0IiAvPgogIDwvY29tcG9uZW50Pgo8L3Byb2plY3Q+\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/847674218/TestDemo/contents/.idea/vcs.xml?ref=23d1400869b6836b1c2919da14a05e1edb3d3e8a",
+        "git": "https://api.github.com/repos/847674218/TestDemo/git/blobs/94a25f7f4cb416c083d265558da75d457237d671",
+        "html": "https://github.com/847674218/TestDemo/blob/23d1400869b6836b1c2919da14a05e1edb3d3e8a/.idea/vcs.xml"
+    }
+}

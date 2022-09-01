@@ -1,0 +1,171 @@
+{
+    "sha": "d87ae5047cbc2a8ad5a7f800e0a8a1c802a6819a",
+    "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/d87ae5047cbc2a8ad5a7f800e0a8a1c802a6819a",
+    "tree": [
+        {
+            "path": ".rat-excludes",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "953d3c06c4c78590cd70d242e58765ccee4b885c",
+            "size": 537,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/953d3c06c4c78590cd70d242e58765ccee4b885c"
+        },
+        {
+            "path": "CHANGES.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "cc420f2ad4e904f947ef6fc8bbc193d0ae3c4bf3",
+            "size": 84045,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/cc420f2ad4e904f947ef6fc8bbc193d0ae3c4bf3"
+        },
+        {
+            "path": "LICENSE.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "d5c4984908ede433c7f32084e9d7642af0866b84",
+            "size": 11609,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/d5c4984908ede433c7f32084e9d7642af0866b84"
+        },
+        {
+            "path": "NEWS.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "c88b7e3d898f410bee60e6aa123b235e728a8900",
+            "size": 25788,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/c88b7e3d898f410bee60e6aa123b235e728a8900"
+        },
+        {
+            "path": "NOTICE.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "0f033f1f163d44866d57b340345ddc9dc5638c64",
+            "size": 1378,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/0f033f1f163d44866d57b340345ddc9dc5638c64"
+        },
+        {
+            "path": "README.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "9e9dfb5990ee1254bcf2a721cb610ab3fcff9c21",
+            "size": 3847,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/9e9dfb5990ee1254bcf2a721cb610ab3fcff9c21"
+        },
+        {
+            "path": "bin",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "8f3ef4c0c03ed0edb23e202021d957436b634d22",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/8f3ef4c0c03ed0edb23e202021d957436b634d22"
+        },
+        {
+            "path": "build.properties.default",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "ff6aea0a80fc817719fc9dadbb5d76fee9c4cc29",
+            "size": 516,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/ff6aea0a80fc817719fc9dadbb5d76fee9c4cc29"
+        },
+        {
+            "path": "build.xml",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "7f73700ed27e15790106f63ec9fbaab91f7a6980",
+            "size": 63122,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/7f73700ed27e15790106f63ec9fbaab91f7a6980"
+        },
+        {
+            "path": "conf",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "9ec0660840a24c56ac772cdeafd1c03022ca1d6a",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/9ec0660840a24c56ac772cdeafd1c03022ca1d6a"
+        },
+        {
+            "path": "contrib",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "72733a60f31d5d4c62dd2129daf6ecbcd412f042",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/72733a60f31d5d4c62dd2129daf6ecbcd412f042"
+        },
+        {
+            "path": "debian",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "47ae24acd8f099d64ffe23f4c487845923c8decd",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/47ae24acd8f099d64ffe23f4c487845923c8decd"
+        },
+        {
+            "path": "doc",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "e327f422b8bd596adf406df342f8b55d174d432c",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/e327f422b8bd596adf406df342f8b55d174d432c"
+        },
+        {
+            "path": "examples",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "6fe77864dcdbcbb32f0ec0ce770da6ad641ce737",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/6fe77864dcdbcbb32f0ec0ce770da6ad641ce737"
+        },
+        {
+            "path": "interface",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "bc0ba865ea512d1fd27101495f8e25355c5a79bd",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/bc0ba865ea512d1fd27101495f8e25355c5a79bd"
+        },
+        {
+            "path": "lib",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "432cfbb244904efba5f90fcac0fbaff0a604749e",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/432cfbb244904efba5f90fcac0fbaff0a604749e"
+        },
+        {
+            "path": "redhat",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "69faff868729428d5e641f6c9a94044eed16f306",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/69faff868729428d5e641f6c9a94044eed16f306"
+        },
+        {
+            "path": "requirement.json",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "400f49cfb40950450fb8e57b2b691c6e48c70793",
+            "size": 18748,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/400f49cfb40950450fb8e57b2b691c6e48c70793"
+        },
+        {
+            "path": "src",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "47ec57541955c66e0594f1cffe7261c08d9c5823",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/47ec57541955c66e0594f1cffe7261c08d9c5823"
+        },
+        {
+            "path": "test",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "5cc3f98419bb6e45dc9a6c483ab94b53fc0ff776",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/5cc3f98419bb6e45dc9a6c483ab94b53fc0ff776"
+        },
+        {
+            "path": "tools",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "905cad47772dda75f94efaae05977061766fd524",
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/trees/905cad47772dda75f94efaae05977061766fd524"
+        },
+        {
+            "path": "traceLinkMatrix.json",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "d37f1781a08a8c98958c083915b003fc27d11a35",
+            "size": 41642,
+            "url": "https://api.github.com/repos/847674218/Cassandra/git/blobs/d37f1781a08a8c98958c083915b003fc27d11a35"
+        }
+    ],
+    "truncated": false
+}
